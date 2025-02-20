@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MARKHORxxx
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on BlockChain
+Just another Dev.
 
 <!---
 MARKHORxxx/MARKHORxxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
