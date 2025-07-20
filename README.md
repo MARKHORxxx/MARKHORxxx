@@ -61,9 +61,9 @@ Not chasing jobs — I’m designing systems, building legacy, and making noise 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markhorrubby&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=markhor.xxx&show_icons=true&theme=radical" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=markhorrubby&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=markhor.xxx&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
