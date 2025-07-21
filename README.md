@@ -1,74 +1,96 @@
-<h1 align="center">🚀 M Salman: Building in Silence, Launching with Impact</h1>
+<h1 align="center">👨‍💻 M Salman — Aspiring Full-Stack Engineer | Tech-Centric & Code-Obsessed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFAB&center=true&width=435&lines=Turning+Ideas+into+Impact;Engineering+the+Next+Disruption;Zero+to+One+is+the+Game;Execution+%3E+Excuses" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFAB&center=true&width=500&lines=Full+Stack+in+Progress...;React%2C+Firebase%2C+Tailwind+Fanatic;TypeScript+on+the+Radar;Engineering+Clean+Code%2C+Real+Impact" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build%20Status-In_Progress-00ffab?style=for-the-badge&logo=githubactions&logoColor=black" />
 </p>
 
 ---
 
-### 🧬 About Me
+### 🔍 Who Am I?
 
-I’m a full-stack experimenter, a relentless learner, and the architect of my own destiny.  
-Fuelled by caffeine and code, I don’t just chase trends — I engineer what’s next.
-
-- 🎓 CS Undergrad | 🛠 Startup Builder |   
-- 💡 Building: `7C Report`, faceless content brands, AI-based planners  
-- 🔥 Motto: **"Build so boldly they think you’re insane — until you win."**
+Aspiring full-stack developer — not just learning to code, but engineering real-world impact.  
+Currently focused on building modern, scalable apps using **React**, **Firebase**, and **TailwindCSS**.  
+Learning never stops — always shipping, debugging, and leveling up.
 
 ---
 
-### 🛠️ Tech Stack & Focus
+### ⚙️ Tech Stack
 
-- **Languages:** Python, JavaScript, C#, C++, HTML, CSS  
-- **Frameworks:** React, Firebase, TailwindCSS, PyQt  
-- **AI/DS:** scikit-learn, pandas, matplotlib, BFS, DFS, Topological Sort  
-- **Mindset:** Real-world software that solves pain — not just passes tests
+**Frontend**  
+🔹 HTML · CSS · JavaScript  
+🔹 React · TailwindCSS · Responsive UI/UX
 
----
+**Backend & Infra**  
+🔹 Firebase · REST APIs  
+🔹 Authentication · Realtime DB · Cloud Functions
 
-### 🚧 Ongoing Projects
+**Desktop Development**  
+🔹 Python · PyQt · Tkinter
 
-- AI-Powered Study Assistant 🤖  
-- University Course Optimizer 📚  
-- Commute Planner for Karachi 🚦  
-- Power Outage Predictor ⚡  
-
----
-
-### 🧭 Philosophy
-
-> “While others scroll, I build.  
-> While they doubt, I ship.  
-> This isn’t hustle porn — it’s survival with vision.”
-
-I’m not here to be average.  
-I’m stacking bricks now so my future family lives in castles.  
-Not chasing jobs — I’m designing systems, building legacy, and making noise in silence.
+**CS Fundamentals**  
+🔹 Object-Oriented Programming (OOP)  
+🔹 Data Structures & Algorithms  
+🔹 Git · Version Control · CLI tools
 
 ---
 
-### 📬 Let’s Connect
+### 🚀 Currently Building
 
-- LinkedIn: [www.linkedin.com/in/msalmanasif](https://linkedin.com/in/msalmanasif)  
-- Email: [nosherwanasif15@gmail.com](mailto:nosherwanasif15@gmail.com)
+- 📚 **University Course Optimizer** — AI-based planner for semester roadmaps  
+- 🤖 **AI Study Assistant** — GPT-based local context study companion  
+- 🌍 **React Portfolio App** — Built with Firebase Auth + Tailwind UI  
+- ⚡ **Utility Dashboards** — Local power outage + commute planner tools
 
 ---
 
-### 🧨 Real Devs Ship Impact
+### 📡 Code Philosophy
+
+> “Don’t chase trends. Chase logic, clarity, and structure.”  
+> Every line I write serves a function — no filler, no fluff.  
+> I believe in **clean code**, **scalable logic**, and **shipping before perfecting**.
+
+---
+
+### ⏳ Dev Progress
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,tailwind,html,css,firebase,cpp,cs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markhor.xxx&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=markhor.xxx&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://progress-bar.dev/65/?title=Full%20Stack%20Journey&width=300&color=00ffab&suffix=%25" />
 </p>
 
 ---
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <strong>Built different. Built for disruption.</strong><br>
-  <em>#CodeGrind #FirstMillion #DigitalLegacy</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=MARKHORxxx&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MARKHORxxx&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+### 🛠️ Skill Icons
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,pyqt,python,firebase,git&perline=7" />
+</p>
+
+---
+
+### 📬 Contact
+
+- 🔗 [LinkedIn](https://linkedin.com/in/msalmanasif)  
+- 📩 [nosherwanasif15@gmail.com](mailto:nosherwanasif15@gmail.com)
+
+---
+
+<p align="center">
+  <strong>Tracking progress. Optimizing code. Stacking skills.</strong><br>
+  <em>#FullStackInProgress #TechOnly #CleanCode</em>
 </p>
