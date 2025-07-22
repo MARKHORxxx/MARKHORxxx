@@ -1,96 +1,63 @@
-<h1 align="center">👨‍💻 M Salman — Aspiring Full-Stack Engineer | Tech-Centric & Code-Obsessed</h1>
+# 👋 Hi, I'm M Salman — welcome to my GitHub!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFAB&center=true&width=500&lines=Full+Stack+in+Progress...;React%2C+Firebase%2C+Tailwind+Fanatic;TypeScript+on+the+Radar;Engineering+Clean+Code%2C+Real+Impact" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Build%20Status-In_Progress-00ffab?style=for-the-badge&logo=githubactions&logoColor=black" />
-</p>
+I'm a **Full-Stack Developer**, aspiring **Tech Entrepreneur**, and lifelong learner from **Pakistan** 🇵🇰  
+Currently building things with **React, Firebase, Python**, and pushing limits every day.  
+Here to **build real products**, **experiment with side projects**, and break through boundaries 🚀
 
 ---
 
-### 🔍 Who Am I?
+## 🧠 Who I Am
 
-Aspiring full-stack developer — not just learning to code, but engineering real-world impact.  
-Currently focused on building modern, scalable apps using **React**, **Firebase**, and **TailwindCSS**.  
-Learning never stops — always shipping, debugging, and leveling up.
-
----
-
-### ⚙️ Tech Stack
-
-**Frontend**  
-🔹 HTML · CSS · JavaScript  
-🔹 React · TailwindCSS · Responsive UI/UX
-
-**Backend & Infra**  
-🔹 Firebase · REST APIs  
-🔹 Authentication · Realtime DB · Cloud Functions
-
-**Desktop Development**  
-🔹 Python · PyQt · Tkinter
-
-**CS Fundamentals**  
-🔹 Object-Oriented Programming (OOP)  
-🔹 Data Structures & Algorithms  
-🔹 Git · Version Control · CLI tools
+- 🧩 Passionate about creating software that's useful, scalable, and beautiful  
+- 🎯 Focused on **side hustles, automation, and AI tools**  
+- 🧪 Always exploring how tech + creativity can change the game  
+- 📈 Self-taught + academically trained (BS in Software Engineering)  
+- 🤝 Open to collaborations, ideas, and working on impactful products  
 
 ---
 
-### 🚀 Currently Building
+## 🛠️ Tech Stack
 
-- 📚 **University Course Optimizer** — AI-based planner for semester roadmaps  
-- 🤖 **AI Study Assistant** — GPT-based local context study companion  
-- 🌍 **React Portfolio App** — Built with Firebase Auth + Tailwind UI  
-- ⚡ **Utility Dashboards** — Local power outage + commute planner tools
+**Languages:**  
+`HTML` `CSS` `JavaScript` `Python` `C++` `C#`
 
----
+**Frontend:**  
+`React.js` `Next.js` `Tailwind CSS` `Bootstrap` `Firebase Auth` `Framer Motion`
 
-### 📡 Code Philosophy
+**Backend & Tools:**  
+`Firebase` `Node.js` `Express.js` `MongoDB` `SQLite`  
+`Git` `Postman` `Figma` `Netlify` `Render` `GitHub Actions`
 
-> “Don’t chase trends. Chase logic, clarity, and structure.”  
-> Every line I write serves a function — no filler, no fluff.  
-> I believe in **clean code**, **scalable logic**, and **shipping before perfecting**.
-
----
-
-### ⏳ Dev Progress
-
-<p align="center">
-  <img src="https://progress-bar.dev/65/?title=Full%20Stack%20Journey&width=300&color=00ffab&suffix=%25" />
-</p>
+**Currently Exploring:**  
+`AI APIs` `LLMs` `Prolog for Logic Programming` `PyQt for Desktop Apps`
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Highlight Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MARKHORxxx&show_icons=true&theme=radical" />
-</p>
+### 🔹 University Course Optimizer  
+AI-powered tool that uses graph theory (BFS, topological sorting) to help students plan multi-semester course loads based on prerequisites.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MARKHORxxx&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+### 🔹 Power Outage Predictor  
+A smart planner that forecasts power outages in different areas and helps users optimize their daily schedules.
 
----
-
-### 🛠️ Skill Icons
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,pyqt,python,firebase,git&perline=7" />
-</p>
+### 🔹 Faceless AI Brand  
+Managing content creation across YouTube, TikTok, and Instagram in the Finance & Tech niche. Focus: side hustles, automation, and growth tips.
 
 ---
 
-### 📬 Contact
+## 📊 GitHub Stats (Coming Soon)
 
-- 🔗 [LinkedIn](https://linkedin.com/in/msalmanasif)  
-- 📩 [nosherwanasif15@gmail.com](mailto:nosherwanasif15@gmail.com)
+*Public contributions currently under migration from private repos.*
 
 ---
 
-<p align="center">
-  <strong>Tracking progress. Optimizing code. Stacking skills.</strong><br>
-  <em>#FullStackInProgress #TechOnly #CleanCode</em>
-</p>
+## 📫 Let's Connect!
+
+- 📷 [Instagram](https://www.instagram.com/s4lmanxx/?next=%2F)
+- 🧠 [LinkedIn](https://www.linkedin.com/in/msalmanasif/)
+
+> 🛠️ *Always building. Always improving.*
+
+---
+
