@@ -46,7 +46,7 @@ Managing content creation across YouTube, TikTok, and Instagram in the Finance &
 
 ## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msalmanasif&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MARKHORxxx&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Let's Connect!
 
